@@ -1,4 +1,5 @@
 # Legacy Text to TextMeshPro Converter
+<img width="433" height="718" alt="image" src="https://github.com/user-attachments/assets/b01eb1d2-93e6-4aeb-9c34-244e52c67a23" />
 
 A tool to convert Legacy UI components (Text, InputField, Dropdown) to TextMeshPro components while preserving script references.
 
